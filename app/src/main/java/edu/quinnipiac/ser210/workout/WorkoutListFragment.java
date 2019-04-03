@@ -1,4 +1,4 @@
-package edu.quinnipiac.ser210.workout.dummy;
+package edu.quinnipiac.ser210.workout;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+
+import edu.quinnipiac.ser210.workout.Workout;
 
 /**
  * A simple {@link Fragment} subclass.

@@ -6,8 +6,6 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import edu.quinnipiac.ser210.workout.dummy.WorkoutListFragment;
-
 public class MainActivity extends AppCompatActivity implements WorkoutListFragment.Listener {
 
     @Override
